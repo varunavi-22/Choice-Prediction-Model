@@ -2,7 +2,7 @@
 The Steinmetz dataset dataset explores the spatial distribution of neuronal activity associated with vision, choice, action, and behavioral engagement in mice. The researchers used Neuropixels probes to record from approximately 30,000 neurons across 42 brain regions while mice performed a visual discrimination task.
 
 **Research Goal:**
-Using this dataset, we aim to predict how mice brain makes a decison and understand the relative significance of the brain regions involved in the process 
+Using this dataset, we aim to predict how mice brain makes a decision and understand the relative significance of the brain regions involved in the process 
 
 **Research Question:**\
 Is logistic regression a suitable model for predicting behavioral choice as a binary output based on neuronal data from the Steinmetz dataset? To what extent are the thalamus and midbrain regions implicated in contributing to choice?
